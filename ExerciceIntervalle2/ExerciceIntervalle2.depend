@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1641919205 source:c:\users\mustapha\desktop\exerciceintervalle2\main.cpp
+	<iostream>
+	"TableauBorne.h"
+
+1641920337 source:c:\users\mustapha\desktop\exerciceintervalle2\src\tableau.cpp
+	"Tableau.h"
+	"assert.h"
+
+1641920474 c:\users\mustapha\desktop\exerciceintervalle2\include\tableau.h
+
+1641920474 c:\users\mustapha\desktop\exerciceintervalle2\include\tableauborne.h
+	<Tableau.h>
+
+1641920474 source:c:\users\mustapha\desktop\exerciceintervalle2\src\tableauborne.cpp
+	"TableauBorne.h"
+	<TableauBorne.h>
+	"Tableau.h"
+	<assert.h>
+	<iostream>
+
