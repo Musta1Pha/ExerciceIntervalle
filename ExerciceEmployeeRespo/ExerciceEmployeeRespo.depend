@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1641921906 source:c:\users\mustapha\desktop\exerciceemployeerespo\src\employe.cpp
+	"Employe.h"
+
+1641921847 c:\users\mustapha\desktop\exerciceemployeerespo\include\employe.h
+	<iostream>
+
+1641923881 source:c:\users\mustapha\desktop\exerciceemployeerespo\main.cpp
+	<iostream>
+	"responsable.h"
+	"Employe.h"
+	"Personnel.h"
+	"Commercial.h"
+
+1641853208 c:\users\mustapha\desktop\exerciceemployeerespo\include\responsable.h
+	"Employe.h"
+	<vector>
+
+1641677602 source:c:\users\mustapha\desktop\exerciceemployeerespo\src\responsable.cpp
+	"responsable.h"
+
+1641923952 c:\users\mustapha\desktop\exerciceemployeerespo\include\personnel.h
+	<iostream>
+	"Responsable.h"
+	"Employe.h"
+	<vector>
+
+1641916578 source:c:\users\mustapha\desktop\exerciceemployeerespo\src\personnel.cpp
+	<iostream>
+	"Personnel.h"
+	"responsable.h"
+	"Employe.h"
+	<vector>
+
+1641923832 source:c:\users\mustapha\desktop\exerciceemployeerespo\src\commercial.cpp
+	"Commercial.h"
+
+1641922169 c:\users\mustapha\desktop\exerciceemployeerespo\include\commercial.h
+	"Employe.h"
+
